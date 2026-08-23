@@ -73,7 +73,7 @@ I used Gemini during this project as a pair-programming assistant. My goal was t
 
 *   **Boilerplate:** I used it to generate the standard Core Data Stack configuration, allowing me to focus my time entirely on the domain logic and sync engine.
 
-## ⏱ Approximate Time Spent: ~9 hours
+## Approximate Time Spent: ~9 hours
 
 *   Architecture & Persistence Setup: 2 hours
 *   UI & Drag-and-Drop Implementation: 3.5 hours
